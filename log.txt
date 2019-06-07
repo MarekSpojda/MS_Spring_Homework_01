@@ -1,0 +1,12 @@
+7:29: dodano klienta
+7:30: dodano klienta
+7:32: dodano klienta
+7:33: dodano klienta
+7:33: pobrano listę klientów
+7:33: usunięto klienta
+7:35: dodano klienta John Snow
+7:35: pobrano listę klientów
+7:35: usunięto klienta John Snow
+8:6: dodano klienta John Snow
+8:6: pobrano listę klientów
+8:6: usunięto klienta John Snow

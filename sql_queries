@@ -1,0 +1,14 @@
+CREATE DATABASE springdatabase CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+create table springlogin(
+id int auto_increment not null,
+logvalue varchar(50),
+primary key(id)
+);
+
+create table customerlogin(
+id int auto_increment not null,
+firstname varchar(50),
+lastname varchar(50),
+primary key(id)
+);
